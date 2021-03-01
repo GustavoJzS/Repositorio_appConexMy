@@ -14,7 +14,7 @@ namespace appConexionMysql.Datos
 
         MySqlConnection objConexion = null;
 
-
+        //help me
         public clConexion()
         {
             try

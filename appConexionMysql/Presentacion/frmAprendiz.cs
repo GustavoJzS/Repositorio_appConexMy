@@ -25,6 +25,7 @@ namespace appConexionMysql.Presentacion
 
             tblAprendiz = objAprendiz.mtdListar();
             dgvAprendiz.DataSource = tblAprendiz;
+           
 
             //Cargar Combo con Programas
             clPrograma objProgama = new clPrograma();
